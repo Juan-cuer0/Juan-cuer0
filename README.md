@@ -21,7 +21,7 @@ Me especializo en mitigar riesgos de software mediante ciclos de testing ágiles
 
 ## 📂 Proyectos Destacados
 
-### 1. [Urban Routes - QA Automation Suite](ENLACE_A_TU_REPOSITORIO_DE_URBAN_ROUTES)
+### 1. [Urban Routes - QA Automation Suite](https://github.com/Juan-cuer0/qa-project-Urban-Grocers-app-es)
 Suite de pruebas extremo a extremo (E2E) para una plataforma de reserva de servicios de transporte.
 * **Tecnologías:** Python, Selenium WebDriver, Pytest.
 * **Logros Técnicos:** Arquitectura escalable bajo el patrón **Page Object Model (POM)**, estabilización de pruebas asíncronas con *Explicit Waits* e intercepción de logs de rendimiento del navegador para extraer dinámicamente códigos de confirmación SMS sin interacción humana.
