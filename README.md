@@ -26,7 +26,7 @@ Suite de pruebas extremo a extremo (E2E) para una plataforma de reserva de servi
 * **Tecnologías:** Python, Selenium WebDriver, Pytest.
 * **Logros Técnicos:** Arquitectura escalable bajo el patrón **Page Object Model (POM)**, estabilización de pruebas asíncronas con *Explicit Waits* e intercepción de logs de rendimiento del navegador para extraer dinámicamente códigos de confirmación SMS sin interacción humana.
 
-### 2. [Urban Scooter - Manual & API Black-Box Testing](ENLACE_A_TU_REPOSITORIO_DE_API)
+### 2. [Urban Scooter - Manual & API Black-Box Testing](https://github.com/Juan-cuer0/Urban-Scooter---Manual-API-Black-Box-Testing/tree/main)
 Proyecto integral de aseguramiento de calidad enfocado en el backend y aplicaciones móviles para un servicio de alquiler de scooters.
 * **Tecnologías:** Postman, JIRA, PostgreSQL.
 * **Logros Técnicos:** Diseño exhaustivo de listas de comprobación y ejecución de pruebas de caja negra empleando análisis de valores límite y clases de equivalencia. Identificación y documentación detallada de bugs críticos en la lógica de validación de entradas de la API (`POST`, `GET`, `DELETE`).
